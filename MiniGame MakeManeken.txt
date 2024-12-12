@@ -1,9 +1,9 @@
-Scanning required!
-Requirements
-Version
-Bone Quantity
-No entity found. Scanning required!
-Scanning Complete
+¡Escaneo requerido!
+Requerimientos
+Versión
+Cantidad de Huesos
+Entidad no encontrada. ¡Escaneo requerido!
+Escaneo Completado
 
 
 
@@ -14,22 +14,22 @@ Scanning Complete
 
 
 
-// Tutorial finish
-Whoo-hoo!
-You did it!
+// Fin del tutorial
+¡Yujú!
+¡Lo has conseguido!
 
 // Tutorial
-So, what am I doing here?
-I need to get to your screen...
-Now...
-So!
-You need to ensure this prototype is the right one.
-First, scan it.
-Now, check the version and bone skeleton.
-Take this prototype's data and compare it to the standard version.
-It's a perfect match! Now, let's check the emotions.
-The specimen successfully shows emotion! Time to test behavior.
-Okay, we've checked everything and it all matches! Now pull the lever up.
-Yay! Now that's the skin on! Pass her the box of clothes.
-That's it! See those lights on top? One of them turned green, which means we did it right!
-Your turn! I'll be back when all the lights turn green. Good luck!
+¿Y qué estoy haciendo aquí?
+Necesito llegar a tu pantalla...
+Ahora...
+¡Entonces!
+Tienes que asegurarte de que este prototipo sea el correcto.
+Primero, escanéalo.
+Ahora revisa la versión y el esqueleto del hueso
+Toma los datos del prototipo y compáralo con la versión estándar.
+¡Es una combinación perfecta! Ahora comprobemos las emociones.
+¡Este especimen muestra emociones de forma exitosa! Hora de probar su comportamiento.
+¡Okay, ya hemos revisado todo y todo coincide! Ahora sube la palaca.
+¡Sí! Ahora que tiene la piel puesta ¡Pásale la caja de ropa!
+¡Eso es todo! ¿Ves esas luces de arriba? Una de ellas se volvió verde ¡Lo cual quiere decir que lo hemos hecho bien!
+¡Tu turno! Volveré cuando todas las luces se pongan verde ¡Buena suerte!

@@ -1,5 +1,5 @@
-New clothes available!
-Not available
+¡Nueva ropa disponible!
+No disponible
 
 
 
@@ -7,7 +7,7 @@ Not available
 
 
 
-Default
-School
-Vampire
-Christmas
+Por defecto
+Colegiala
+Vampiresa
+Navideño

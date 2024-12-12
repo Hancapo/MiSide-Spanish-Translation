@@ -1,9 +1,9 @@
 // Player start
-Where am I?
-This place looks familiar.
-Wait... I'm in the game?
+¿Dónde estoy?
+Este lugar se me hace familiar.
+Espera... ¿Estoy en el juego?
 // Player try open the door
-Locked?
+¿Cerrada?
 // Player in dark
-It's dark in here.
-I can't see anything.
+Está oscuro aquí.
+No veo nada.

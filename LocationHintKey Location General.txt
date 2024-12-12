@@ -1,132 +1,133 @@
-Press
-Talk
-Put ring on
-Look for button
-Hold
-Stand up
-Take ring
-Delete game
-End
-Press
-Stop
-Run
-Open message
-Download app
-Launch app
-Talk
+Presionar
+Hablar
+Poner anillo
+Busca un botón
+Sostener
+Ponerse de pie
+Tomar anillo
+Borrar juego
+Terminar
+Presionar
+Parar
+Correr
+Abrir mensaje
+Descargar app
+Lanzar App
+Hablar
 
-Take battery
+Tomar batería
 
-Check
-Put down
-Hand over the scissors
-Refuse
-Eat
-Stand up
-Try to stand up
-Take pills
-Take the sauce
-Take cards
-Look at cards
-Hide cards
-Right
-Left
-Play card
-Stay
-Refuse
+Revisar
+Poner abajo
+Pasar las tijeras
+Negarse
+Comer
+Ponerse de pie
+Intentar ponerse de pie
+Tomar pastillas
 
-Cartridges
-Open
+Tomar salsa
+Tomar cartas
+Mirar cartas
+Esconder cartas
+Derecha
+Izquierda
+Jugar carta
+Quedas
+Negarse
 
-Drink juice
-Refuse
+Cartuchos
+Abrir
 
-Move right
-Move left
-Jump
-Crouch
-Attack
+Beber jugo
+Negarse
 
-Twist right
-Twist left
-Lay down
+Mover a la derecha
+Mover a la izquierda
+Saltar
+Agachar
+Atacar
 
-Release
+Girar a la derecha
+Girar a la izquierda
+Tumbarse
 
-Wake up
-Sit up
-Stand up
-Turn on computer
-Pick up ramen
-Finish
-Go to sleep
+Soltar
 
-Find more puzzles
+Despertar
+Sentarse
+Ponerse de pie
+Encender computador
+Tomar ramen
+Terminar
+Ir a dormir
 
-Try
-I shouldn't
+Encontrar más puzles
 
-I know
-I don't know
-Hit weakly
-Hit hard
-Push!
+Intentar
+No debería
 
-Left
-Middle
-Right
+Lo sé
+No lo sé
+Golpear suavemente
+Golpear fuertemente
+¡Empujar!
 
-Right
-Select
-Left
+Izquierda
+Al medio
+Derecha
 
-One more
-Enough
+Derecha
+Seleccionar
+Izquierda
 
-Interfere
+Uno más
+Suficiente
 
-Pull lever
+Interferir
 
-Select right
-Select left
+Tirar de la palanca
 
-Turn right
-Turn left
-Jump
-Open door
+Seleccionar derecha
+Seleccionar izquierda
 
-Select game
-Finish playing
-Continue
-Play
+Girar a la derecha
+Girar a la izquierda
+Saltar
+Abrir puerta
+
+Seleccionar juego
+Terminar de jugar
+Continuar
+Jugar
 
 
-Close door
+Cerrar puerta
 
-Right
-Left
-Down
-Up
+Derecha
+Izquierda
+Abajo
+Arriba
 
-Step back
-Press a button
+Dar un paso atrás
+Presionar un botón
 
-Eat
-Drink
-Take patty
-Take flatbread
-Add milk
-Add sugar
-Add flour
-Add oil
-Add an egg
-Mix
-Add the mix
-Flip
-Too much
+Comer
+Beber
+Tomar hamburguesa
+Tomar pan de molde
+Agregar leche
+Agregar azucar
+Agregar harina
+Agregar aceite
+Agregar un huevo
+Mezclar
+Añadir la mezcla
+Voltear
+Demasiado
 
-They look good on you
-Just take them off
+Se ven bien enti
+Solo sácatelos
 
-Talk to me
-No need
+Háblame
+No hay necesidad

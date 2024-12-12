@@ -1,231 +1,233 @@
 
-Hello, [player]!
-We finally meet!
-I'm so excited!
-I know you have questions...
-Well, as you can see,
-I made this special device
-to bring you here to my side.
-But you ended up in another version of the game...
-In which I...
-But that's a long story!
-Anyway, I'm just happy to see you!
+¡Hola, [player]!
+¡Finalmente nos conocemos!
+¡Estoy tan emocionada!
+Sé que tienes preguntas...
+Bueno, como puedes ver,
+Hice este dispositivo especial
+para traerte aquí, a mi lado.
+Pero terminaste en otra versión del juego...
+En la cual yo...
+¡Pero eso es una larga historia!
+Como sea, ¡Estoy feliz de verte!
 
 // Answer 1 - Mita
-I am.
-And you must be [player], right?
+Lo soy.
+¿Tú debes ser [player], verdad?
 
 // Answer 2 - Mita
-Go back already?
-I guess I could help you with that... But what about me?
-Please, stay with me for a while...
+¿Ya vas a volver?
+Supongo que puedo ayudarte con eso... ¿Pero que hay de mí?
+Por favor, quédate conmigo por un rato...
 
 // Answer 3 - Mita
-Let me explain...
-And here you are!
-Got it?
-Uhm... not really.
-That's fine!
-What's important is that we're together now.
+ Te explico...
+¡Y así llegaste aquí!
+¿Lo entiendes?
+Pues... realmente no.
+¡No importa!
+Lo que importa es que ahora estamos juntos.
 
 
-Are you hungry?
-How about we cook something up?
-Here,
-help me with these carrots.
+¿Tienes hambre?
+¿Qué tal si cocinamos algo?
+Ven aquí,
+ayúdame con esas zanahorias.
 
-Where did the vegetables come from?
-They weren't here just now.
+¿De dónde salieron esas verduras?
+Hace un momento no estaban.
 
-[player], we're in a game.
-Come on, give me a hand.
+[player], estamos en un juego.
+Vamos, dame un mano.
 
-Thanks!
-Can you grab the scissors?
-They're in the bathroom.
+¡Gracias!
+¿Podrías traer las tijeras?
+Están en el baño.
 
-Now, have a seat.
+Ahora toma asiento.
 
 
 // Kitchen
-Would you like some sauce?
+¿Quieres salsa?
 
-No thanks.
+No, gracias.
 
-That's a shame.
-Sauce really enhances the flavor!
+Qué lástima.
+¡La salsa de verdad que mejora el savor!
 
 
-Thank you.
+Gracias.
 
-Finished it all already?
-Huh, my portion feels
-endless...
+¿Ya te lo acabaste?
+Eh, mi porción se siente
+infinita...
 
 
 // Help
-What's wrong?
-Tell me what you see and feel.
+¿Qué ocurre?
+Dime lo ves y sientes.
 
-My heart's racing,
-and my vision's blurring.
+Mi corazón va a mil por hora,
+y mi visión se emborrona.
 
-Right.
-I think I know what's wrong.
-Can you stand up?
-
-
-
-What are these?
-
-Pills.
-They'll make you feel better soon.
-Go to the mirror.
-
-Take the pills.
-Come on now.
+Ya entiendo.
+Creo saber qué te ocurre.
+¿Puedes pararte?
 
 
 
-How are you feeling?
-Any better?
+¿Qué es eso?
 
-Yes.
-That worked fast...
+Pastillas.
+Te harán sentir mejor muy pronto.
+Ve al espejo.
 
-[player], we're in a game.
-Things are much simpler here.
-Even the smallest effort
-gives great results.
-It's all part of the game concept:
-Simplification.
-
-An example, please?
-
-Well, take carrots.
-You cut one,
-but it's as if you cut three.
-
-Look, this is all very sudden.
-I'm scared, more than a little.
+Tómate las pastillas.
+Vamos.
 
 
-What's the matter?
 
-I found cartridges in the air vent.
-They had names on them.
-What's the deal with that?
+¿Cómo te sientes?
+¿Mejor?
 
-Cartridges?
-What cartridges?
-Let's figure that out together.
-But later.
-Right now, we've got to eat.
-Pass me the scissors, please.
+Sí.
+Eso sí que fue rápido...
+
+[player], estamos en un juego.
+Las cosas por acá son mucho más simples.
+Incluso el menor de los esfuerzos
+da grandes resultados.
+Todo forma parte del concepto de juego:
+Simplificación.
+
+¿Ejemplo, por favor?
+
+Bueno, piensa en las zanahorias.
+Cortas una,
+pero es como si hubieras cortado tres.
+
+Mira, todo esto es muy repentino.
+Estoy asustado, más que solo un poco.
+
+
+¿Qué es lo que pasa?
+
+Encontré cartuchos en el conducto de ventilación.
+Tenían nombres escritos.
+¿Qué significa todo eso?
+
+¿Cartuchos?
+¿Qué cartuchos?
+Vamos a descubrirlo juntos.
+Pero luego.
+Ahora mismo tenemos que comer.
+Pásame las tijeras, por favor.
 
 // Ring
-A ring?
+¿Un anillo?
 // Mirror
-How come there's no reflection?
+¿Cómo es que no hay reflejos?
 
-Oh, right!
-I forgot to turn on reflections.
-There we go.
-Reflections are back!
-By the way,
-I honestly didn't even know what reflections were before.
-They didn't exist in my world—
-not until some update, that is. :)
-Are there lots of reflections
-in your world?
+¡Oh, cierto!
+Olvidé activar los reflejos.
+Ahí tienes.
+¡Los reflejos ya están de vuelta!
+Por cierto,
+Honestamente antes ni siquiera sabía que eran los reflejos.
+No existen en mi mundo—
+no hasta ciertas actualizaciones, y ya. :)
+Hay muchos reflejos
+en tu mundo?
 
-Well, yeah.
+Claro, sí.
 
 
-Do you recall
-the three objects you found?
-The ones you placed on the scanner?
-Well, um...
-Those objects
-are tied to this version of the world.
-That's why you’re here now.
+¿Recuerdas esos
+tres objectos que encontraste?
+¿Los que pusiste en el escáner?
+Sí, eh...
+Eso objetos
+están ligados a esta versión del mundo.
+Por eso es que estás aquí ahora.
 
 // Movbile TV
-That's the portable TV
-I bought you.
+Esa es la TV portátil
+que te compre.
 
-Yep!
+¡Síp!
 
-You told me
-it was broken.
+Me habías
+dicho que estaba rota.
 
-Well, I wanted to
-surprise you!
-I told a little white lie
-to get you here, into my world.
-It works now—displays information!
-Oh, and by the way…
-I'm a bit of an engineer!
+Bueno, ¡solo quise
+sorprenderte!
+Te dije una pequeña mentirita
+para tenerte acá, en mi mundo.
+¡Ahora funciona—muestra información!
+Ah, y por cierto...
+¡Soy más o menos ingeniero!
 
 // School cloth
-What's this?
-A school uniform?
-Why would you need that?
-Do you actually go to school?
+¿Qué es esto?
+¿Un uniforme escolar?
+¿Por qué necesitarías eso?
+¿Vas a la escuela?
 
-Go to school?
-Not at all.
-But I love the uniform
-Don't you think I look cute
-in it?
+¿Escuela?
+Para nada.
+Pero me encanta el uniforme.
+¿No crees que me veo linda
+en él?
 
 // PC
-Does the computer work?
-Or is it just desk decoration?
+¿Funciona el computador?
+¿O solo es decoración del escritorio?
 
-Of course it works.
-Everything here
-works exactly like in your world.
+Claro que funciona.
+Todo acá
+funciona exactamente igual que en tu mundo.
 
-Back in my world,
-I sit at my computer a lot...
-And work hard.
+En mi mundo,
+Me sentaba mucho a la computadora.
+Y trabajaba mucho.
 
-I know.
-It's because of your job
-that you've paid me
-so little attention.
+Lo sé.
+Fue por tu trabajo
+que me prestabas
+tan poca atención.
 
-Gotta make a living, you know.
-Though… how do you know I sit at my computer a lot?
+Ya sabes, tengo que vivir de algo.
+Aunque... ¿cómo sabías que me sentaba 
 
-Your phone's camera... it's on sometimes.
-I'm sorry.
-I've been watching you in secret >A<
+La cámara de tu celular... está prendida algunas veces.
+Lo siento.
+Te he estado observando en secreto >A<
 
-Uhm… that's not entirely proper.
-But whatever.
+Eh... eso no es muy adecuado que digamos.
+Pero como sea.
 
 // Umbrella
-I've played a ton
-but I've never seen it rain here.
-Why have an umbrella?
+He jugado un montón,
 
-It rains—just very rarely.
-You just haven't seen it yet.
-Maybe on day you will.
-And then you'll need an umbrella.
-Don't you think?
+pero nunca he visto lluvia por aquí.
+¿Por qué tendrías un paraguas?
+
+It rains—solo que muy rara vez.
+
+Es que no lo has visto aún.
+Quizá algún día.
+Y necesitarás un paraguas.
+¿No crees?
 
 // Electrical panel
-Why is there an electrical panel here?
-And if we're in a game,
-what's it for?
+¿Por qué hay un panel eléctrico aquí?
+¿Y si estamos en un juego,
+para qué es?
 
-Firstly,
-we're in a game.
-So asking 'Why' is...
-pointless.
+Primero que todo,
+estamos en un juego.
+Así que preguntar "Por qué" esto o lo otro" es...
+un sin sentido.
 However, it does
 restart the electricity.
 Everything here is made based

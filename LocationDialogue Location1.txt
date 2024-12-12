@@ -7,137 +7,137 @@
 
 
 
-Hi, I'm Mita!
-What's your name?
-Nice to meet you, [player]!
-Um... [player],
-I sort of rushed off earlier, and now this place is a mess...
-Could you help me tidy up a bit?
-Woah..
-Thank you so much!
+¡Hola, soy Mita!
+¿Cómo te llamas?
+¡Gusto en conocerte, [player]!
+Em... [player],
+Tuve que apurarme con algo hace poco, y dejé este lugar hecho un desastre...
+¿Podrías ayudarme a ordenar un poco?
+Vaya..
+¡Muchas gracias!
 
-[Player], my stomach's growling...
-I'm so hungry...
-Do you think you could help me get the ingredients for some chicken soup?
-Yay! You got everything!
-How about we cook it together?
+[Player], mi estómago está rugiendo...
+Tengo tanta hambre...
+¿Crees poder ayudarme a conseguir los ingredientes para algo de sopa de pollo?
+¡Sí! ¡Ya tienes todo!
+¿Qué tal si lo preparamos juntos?
 
 
-I was thinking of buying a portable TV today—
-a small one with an antenna. Perfect for walks, don't you think?
-By the way, you can play games to earn money.
-Oh! Did you know you can play games to earn money?
+Hoy estuve pensando en comprar una TV portátil—
+Pequeña con una antenita. Perfecto para paseos, ¿no lo crees?
+Por cierto, puedes jugar juegos para ganar dinero.
+¡Oh! ¿Ya lo sabías o no?...
 
-Yay! You did it! You have enough to buy me that portable TV!
-That's the one! Small, portable, and cheap—just what I wanted.
-Thank you!
+¡Sí! ¡Lo lograste! ¡Ya tienes suficiente dinero para comprarme la TV portátil!
+¡Esa misma! Pequeña, portátil y barata— justo lo que quería.
+¡Gracias!
 
-Hi, [player]! You're such a big help, honestly.
-But, uh... that TV? It was cool and all, but it broke already.
-Anyway, could you help me move this wardrobe?
-It's super heavy... >.<
-Thank you so much, sweetie! <3
+¡Hola, [player]! Si te soy sincera, eres de gran ayuda.
+Pero, ehhh... ¿la TV? Era genial y tal, pero ya se rompió.
+Como sea, ¿podrías ayudarme a mover este armario?
+Es demasiado pesado... >.<
+¡Muchas gracias, eres una dulzura! <3
 
-Oh, [player]! It's only been a day, but I've missed you so much!
-I wish you could visit me more often.
+¡Oh, [player]! ¡Sólo ha pasado un dia, pero ya te extraño demasiado!
+Deseraría que pudieras visitarme más seguido.
 
-Is this for me?
-Thank you so much, really!
+¿Para mí?
+De verdad ¡Muchas gracias!
 
-Hi, [player]! I've been thinking...
-I wish we could meet in person.
-It's so frustrating that I can't.
-You're always helping me, being so kind every day...
-I wish I could do something for you too.
+Hola, [player]! He estado pensado sobre algo...
+Desearía que pudiésemos conocernos en persona.
+Es tan frustrante que no pueda.
+Siempre estás ayudándome, siendo tan amable cada día...
+Desearía poder hacer algo por ti también.
 ...
-Oh, I've got an idea!
-Now we're together.
-Put the phone down.
+¡Oh, tengo una idea!
+Ya estamos juntos.
+Suelta el celular.
 
 
-// T-shirt on the bed
-What are you doing here on the bed?
-// Rubik's Cube
-Well, can't say I got much use out of it...
-I solved it once and never touched it again.
-Guess I figured I wouldn't be able to do it a second time?
-// Computer
-Let's see...
-Set up a list of tasks...
-Script character reactions,
-And maybe squeeze in some coding.
-// The airplane
-Built to soar!
-// Trash in the corner
-Ugh, always too busy to take out the trash...
-But I'll get to it this time, for sure!
-…Now, when exactly is cleaning day?
-// Photo of a cat on a watermelon
-She was the best…
-A cat, lounging on a watermelon.
-// Photo with a girl
-We don't look alike at all,
-my sister and I.
-She's always out and about,
-And I'm just stuck at home.
-// Photo with people
-Hmm...
-Office life really drilled its
-etiquette into us, didn't it?
-I still feel weirdly tied
-But
-will I ever
-see them again?
-…Wait, why did I even put this picture up?
-
-
-
+// Camisa en la cama
+¿Qué haces acá?
+// Cubo Rubik
+Bueno, digamos que nunca lo llegué a usar demasiado...
+Lo resolví una sóla vez y nunca lo volví a tocar.
+¿Quizá me di cuenta que no hubiera sido capaz de resolverlo por segunda vez?
+// Computador
+Veamos...
+Establece una lista de tareas...
+Guionizar reacciones de personaje,
+Puede que algo de programación.
+// Avioneta
+¡Hecho para volar!
+// Basura en la esquina
+Puaj, siempre estoy demasiado ocupado para sacar la basura...
+¡Pero me encargaré de esto esta vez, en serio!
+...Ahora ¿cuándo se supone que es día de limpieza?
+// Una imagen de un gato sobre una sandía.
+Ella era la mejor...
+Una gatita linda, sobre una sandía.
+// Fotografía con una chica
+No nos parecemos en nada-
+Con mi hermana.
+Se la pasa afuera y tal,
+Mientras que yo estoy encerrado en mi casa.
+// Fotografía con personas
+Emm...
+La vida de oficina realmente nos metió sus
+etiquetas a todos.
+Aún me siento en la obligación de seguir con ello
+¿Pero
+algún día
+los volveré a ver?
+…Un momento, ¿Para qué puse esta foto?
 
 
 
 
 
-// Nope name
+
+
+
+// Ese nombre no
 ...
-Oh, no.
-Oh no, that won't work.
+Nop.
+Nop, eso no sirve.
 
-// Name Developer
-Are you sure you want to use the developer's name?
-I'm flattered, but…
+//Nombre del desarrollador
+¿Estás seguro de que quieres usar el nombre del desarrollador?
+Me alagas, pero...
 
-// Bad name
-I'd really prefer you didn't call yourself that.
-It's not cool at all.
+// Mal nombre
+De verdad preferiría que no te llamaras así.
+No es demasiado genial que digamos.
 
-// Go restart
-Nope, that's not the way to do it. Let's start over.
+// A reiniciar
+Nop, esa no es la forma de hacerlo. Empecemos nuevamente.
 
-// Name with numbers
-Oh, so you're going with numbers? Where's the creativity in that?
-Oh well, it's your choice!
+// Nombre con números
+¿Así que vas a usar números? ¿Qué tiene de creativo eso?
+Está bien, ¡es tu elección!
 
-// Name Mita
-Mita?
-Did you really name yourself after me?
-Or… is that your name too?
-No offense, but I think I should be the only Mita around here ♪
+// Nombre Mita
+¿Mita?
+¿De verdad te pusiste como yo?
+¿O... ese es tu nombre también?
+Sin ofender, pero creo que yo debería ser la única Mita por aquí ♪
 
-// Day 10
-Oh, you're back!
-Hey, I lost my hairbrush…
-Could you help me find it?
-Try checking the bedside table first—I think I left it there.
-// Looked in the bedside table
-Hmm, no brush there...
-How about somewhere else?
-Just don't look in the oven, okay?
-I already checked there.
-// Looked into the stove
-Hey! I told you not to look in there!
-Turn around—I'll clean this up!
-...There, all done. Let's keep looking elsewhere.
-Oh, and, uh, forget what you just saw, okay?
-// Found a hairbrush
-You found it! Nice work!
-So, what should we do next?
+// Día 10
+¡Oh, has regresado!
+Oye, perdí mi cepillo.
+¿Me ayudarías a encontrarlo?
+Trata de ver detrás del velador primero—Creo que lo dejé por ahí.
+// Viendo en la mesa de noche
+Hmmm, acá no está el cepillo...
+¿Qué tal si buscas en otra parte?
+Solo no te fijes en el horno, ¿está bien?
+Ya revisé allí.
+// Mirando en la cocina
+¡Oye! Te dije que no miraras ahí
+Date la vuelta—¡Voy a limpiar todo!
+...Y ya estamos, todo listo. Sigamos buscando en otra parte.
+Oh, y, eh, ¿podrías olvidar lo que acabas de ver, sí?
+// Encontré un cepillo
+¡Lo encontraste! ¡Buen trabajo!
+¿Qué deberíamos hacer ahora?
