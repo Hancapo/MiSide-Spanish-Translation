@@ -1,0 +1,145 @@
+Nueva partida
+Continuar
+Menú principal
+Salir
+Opciones
+Logros
+Créditos
+Volver
+Cargar
+Idioma
+Cargando...
+Gráficos
+Sonido
+Mouse y teclado
+Control
+Resolución
+Modo ventana
+Efectos gráficos
+Efectos de colorizado
+Sombras suaves
+Efecto de difuminado
+Efecto resplandor
+Anti-aliasing
+Sombras
+Calidad de la representación del mundo
+Programación
+Animación
+Efectos sonoros
+Música
+Partículas
+Texturas
+Modelos 3D (98%)
+Guión
+Reiniciar
+Adelante
+Atrás
+Izquierda
+Derecha
+Interacción
+Sensibilidad del mouse
+¿Salir del juego?
+Sí
+No
+Volver al menú principal
+Giros suaves
+Opciones del juego
+Estilo de sombras
+Ropa
+Interfaz
+Modelos 3D (2%)
+Video del juego
+Pausar
+Menú
+¡Felicidades! ¡Has completado el juego!
+Tiempo:
+Subtítulos
+Brillo
+Sincronización vertical
+Guardado
+Personajes
+Personajes - Mitas
+Personajes - Cartuchos
+Cartuchos
+Mitas
+Empezar desde cero
+¿De verdad quieres borrar todo tu progreso y empezar desde cero?
+Compilando sombreadores, tiempo estimado: 2 horas.
+¡¿Dos horas de compilación?! ¡Mentira! Nos saltamos la fila por ti.
+Creando sombras realistas por trazado de rayos, 10 minutos.
+Bromita, no usamos esas cosas tan avanzadas por aquí.
+Emm...
+¡Oh, ya estamos listos!
+Cabezeo al caminar
+Mostrar pistas
+Voz del jugador
+Discord
+Perfil de personaje agregado
+Campo de visión
+Voz
+Desactivado
+Extender mano en puertas
+Animación
+Activar voz del jugador
+Mita
+Mita Pelicorta
+Mita Agradable
+Mita Gorrita
+Mita Pequeñita
+Mita
+Mita 2D
+Mila
+Mita Tenebrosa
+Mita Núcleo
+Mita Fantasmal
+Mita Chibi
+Mita Maniquí
+
+
+
+// Name load location
+¿Estoy dentro de un juego?
+Al menos estamos juntos
+Las cosas se ponen raras
+El sótano
+Más allá del mundo
+El Ciclo
+Mini Mita
+Maniquíes y rompecabezas olvidados
+Ella solo quiere dormir
+Novela Visual
+Leyendo libros, destruyendo glitches
+¡Corre y escóndete!
+Versión vieja
+¿Esto es el mundo real?
+Reinicio
+
+
+
+
+Jugador 1
+Jugador 2
+Jugador 3
+Jugador 4
+Jugador 5
+Jugador 6
+Jugador 7
+Jugador 8
+Jugador 9
+Jugador 10
+
+Modo pacífico
+¡Este modo de juego sigue en desarrollo! Es tan grande que los desarrolladores aún no han podido terminarlo. Pero no te preocupes, se han comprometido con que lo incluirán en una actualización mayor en el futuro. Y mírate. ¡Siempre adelantado a tu tiempo ya teniendo el acceso desbloqueado! Ahora todo lo que queda es esperar...
+¿Pero qué es el modo pacífico? ¡Es tu oportunidad de reconectar con Mita en una forma completamente diferente! Ella estará encantada de pasar más tiempo contigo, de la mañana a la noche, en un mundo rebosante de sorpresas y diversión. Tendrás conversaciones sinceras de tú a tú, compartirán galletitas, jugarán jueguitos y vivirás un sinfín de momentos hilarantes juntos.
+
+
+Censura
+Agradecimientos especiales:
+Iconos de logros: Iceсloud
+Fotógrafo: Nineko Hori
+Traductor
+Convierte el texto del juego hacía otro idioma.
+Socio Editorial
+Marketing de juego
+Tester
+Prueban y encuentran toda clase de bugs.
